@@ -1,7 +1,11 @@
 <!-- ======================= Banner ======================= -->
 
 <p align="center">
-  <img src="https://chatgpt.com/s/m_6a6b4f592ea481918d2bf9000ce97631"/>
+
+
+
+  <img width="1983" height="793" alt="ChatGPT Image Jul 30, 2026, 07_18_58 PM" src="https://github.com/user-attachments/assets/f001d62f-136b-46aa-ac6b-edfdbe498140" />
+
 </p>
 
 <!-- ======================= Animated Typing ======================= -->
@@ -10,9 +14,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Israt+Jahan+Ela;Information+%26+Communication+Engineering+Student;MERN+Stack+Developer;Problem+Solving+Enthusiast;Software+Engineering+Learner;Exploring+AI+%26+Machine+Learning" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+
 
 ---
 
@@ -70,51 +72,11 @@
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 📌 Featured / Pinned Repositories
-
-> Pin your best repositories from your GitHub profile.
-
-Suggested order:
-
-⭐ MERN Project
-
-⭐ IoT Project
-
-⭐ Problem Solving Repository
-
-⭐ Networking / Cisco Project
-
-⭐ University Project
-
-⭐ AI / ML Project
-
----
 
 # 🌱 Currently Learning
 

@@ -93,15 +93,15 @@
 
 <p>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/ela336">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/israt-jahan-ela/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:ij8319366@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 

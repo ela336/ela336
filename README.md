@@ -11,7 +11,7 @@
 <!-- ======================= Animated Typing ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Israt+Jahan+Ela;Information+%26+Communication+Engineering+Student;MERN+Stack+Developer;Problem+Solving+Enthusiast;Software+Engineering+Learner;Exploring+AI+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=001F3F&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Israt+Jahan+Ela;Information+%26+Communication+Engineering+Student;MERN+Stack+Developer;Problem+Solving+Enthusiast;Software+Engineering+Learner;Exploring+AI+%26+Machine+Learning" />
 </p>
 
 

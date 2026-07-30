@@ -1,7 +1,7 @@
 <!-- ======================= Banner ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=230&section=header&text=Israt%20Jahan%20Ela&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20%26%20Communication%20Engineering%20Student%20|%20MERN%20Stack%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://chatgpt.com/s/m_6a6b4f592ea481918d2bf9000ce97631"/>
 </p>
 
 <!-- ======================= Animated Typing ======================= -->

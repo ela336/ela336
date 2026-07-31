@@ -85,7 +85,7 @@
 - Data Structures & Algorithms
 - Artificial Intelligence
 - Machine Learning
-- System Design
+
 
 ---
 

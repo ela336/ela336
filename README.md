@@ -83,8 +83,7 @@
 - Advanced MERN Stack
 - Software Engineering
 - Data Structures & Algorithms
-- Artificial Intelligence
-- Machine Learning
+
 
 
 ---
@@ -113,6 +112,6 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code • Learn • Build • Improve"*
+
 
 </p>
